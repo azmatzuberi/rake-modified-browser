@@ -1,6 +1,7 @@
 {
   "name": "rake-modified",
   "version": "1.0.8",
+  "private": true,
   "description": "An javascript implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm. Forked from https://github.com/sleepycat/rapid-automated-keyword-extraction",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
